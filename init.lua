@@ -1,0 +1,6 @@
+require 'settings'
+require 'keymaps'
+require 'colorscheme'
+require 'statusbar'
+require 'plugins'
+require 'treesitter'
